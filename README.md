@@ -1,6 +1,5 @@
 # repo-de-prueba
 repositorio de prueba 
 
-Primer linea agregada
+Primer línea en el repositorio para electrónica digital II
 
-...
